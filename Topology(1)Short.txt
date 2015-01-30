@@ -1,0 +1,4 @@
+A,30,30,localhost,6553,87,5,1
+C,32,34,localhost,6555,70,5,0
+G,31,38,localhost,6559,68,5,0
+H,36,37,localhost,6560,69,5,0
