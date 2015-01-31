@@ -13,7 +13,7 @@ The sinkNode.java is for the sink node and node.java is for the rest of the node
 
 For nodes(i.e. for a non-sink node):
 
-1.Compile "node.java" using the following command at the command prompt:
+1. Compile "node.java" using the following command at the command prompt:
 
 javac node.java
 
