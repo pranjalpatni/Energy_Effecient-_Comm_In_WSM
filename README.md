@@ -48,5 +48,4 @@ The output will be displayed at the sink node console.
 
 LIMITATIONS:
 1. All the numeric values are of integer type so for calculating the average, only the answer in its integer form will be displayed.
-
 2. It is tiring and difficult to open all the terminals and manually type in all the ip addresses and port numbers for the different nodes. A script can be made and all the output can be stored in a file to make things easy.
